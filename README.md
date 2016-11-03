@@ -1,5 +1,11 @@
 # Pushing to drie push
 
+To get stated clone this repo and cd into the cloned directory.
+```
+git clone https://github.com/tommyvn/rust-test`
+cd rust-test
+```
+
 To push to drie push, first use the below command to generate a random app name
 ```
 app_name=rust-$(curl -s http://m.rang.push.drieapp.co)
